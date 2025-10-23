@@ -12,7 +12,6 @@ public abstract class  figura {
 
     public void mostrar(){
         System.out.println("La area del figura es: " + calcularArea());
-
         }
 
     public static void main(String[] args){
